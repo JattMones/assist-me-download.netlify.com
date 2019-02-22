@@ -20,7 +20,7 @@ canonifyurls = true
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
-  githubName = "jattMones"
+  githubName = "Allegheny-CS-SeniorThesis-2018/cmpsc-600-610-project-3-2018-2019-allegheny-college-JattMones"
   githubName2 = "jattMones"
   #twitterName = "vjeantet"
   # facebookName = ""
