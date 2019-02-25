@@ -1,5 +1,17 @@
 ---
-date: 2016-12-22T20:04:40.407Z
-title: First Post
+date: 2019-02-2T10:25:16-54:00
+title: AssistMe
 ---
-Tristique integer nulla, velit orci elementum posuere odit urna amet, vel est amet etiam pharetra curabitur. Risus feugiat pharetra sit dui tempor sed, malesuada metus, ut sociis elementum, placerat dolor curabitur velit. Fermentum nulla, lacus volutpat, et neque suscipit vel nisl at, suspendisse sed consectetuer in. Donec ut tellus massa, ipsum placerat tincidunt, nam nunc amet sit aenean, eleifend porttitor non fermentum. Wisi ultricies ante nec ac dignissim, in neque suscipit eu blandit et, quis imperdiet. Nulla massa velit turpis condimentum, sed vel leo magna dolor at vivamus, lorem metus odio euismod. Libero non leo. Vestibulum lacus iaculis rutrum sagittis ac, a purus, egestas turpis nulla posuere ut sed lacinia, tellus suspendisse massa et nostra. Nascetur hac, ipsum cum, sem eros, tellus suspendisse non. Netus pretium. Auctor integer ut quis urna vestibulum quis, vivamus ligula dictum vel, et amet auctor donec interdum sagittis, fusce mollis sociosqu sem aptent nullam, eu enim hymenaeos et. Ridiculus fusce interdum, vitae volutpat pulvinar mauris netus.
+AssistMe is a python software application for Windows, that works with the
+AutoHotkey scripting language and Pulovers Macro Creator, to automate and record
+users actions for them! The user interface uses a simple floating button that
+launches a small menu when clicked that gives you options to record a work, misc,
+or temporary recording, and to send errors and view the tutorial for help.
+
+Common uses include automating emails,  automating reports (ie. launch
+Microsoft Word and add weekly report header), additional clipboards (copying and
+pasting multiple/lists of items), automating pulls and pushes to repositories,
+automating gaming actions (in-game store purchases, repetitive looting, etc.),
+automating commonly used programs to start/stop,etc. Our software can be applied
+and useful in a multitude of situations/tasks, and is totally adaptable to
+whatever the user (that's you!) needs to use it for.     
