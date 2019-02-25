@@ -11,7 +11,7 @@ canonifyurls = true
 
 [params]
   description = "Click to Download"
-  cover = "images/techProgress2.jpg"
+  cover = "images/techProgress3.jpeg"
   author = "Matt Jones"
   authorlocation = "USA"
   authorwebsite = "http://vjeantet.fr"
