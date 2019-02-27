@@ -1,5 +1,5 @@
 ---
-date: 2019-02-2
+date: 2006-01-02T15:04:05Z07:00
 title: On Going Work...
 ---
 We are working to make our AssistMe software completely bug free, and
