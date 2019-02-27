@@ -14,5 +14,5 @@ Microsoft Word and add weekly report header), additional clipboards (copying and
 pasting multiple/lists of items), automating pulls and pushes to repositories,
 automating gaming actions (in-game store purchases, repetitive looting, etc.),
 automating commonly used programs to start/stop,etc. Our software can be applied
-and useful in a multitude of situations/tasks, and is adaptable to
-whatever you need to use it for.     
+and useful in a multitude of situations/tasks, and it's adaptability allows it
+to fit many peoples needs.     
