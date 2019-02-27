@@ -1,5 +1,5 @@
 ---
-date: 2019-02-2T10:25:16-54:00Z
+date: 2019-02-2
 title: AssistMe
 ---
 AssistMe is a python application for Windows, that works with the
