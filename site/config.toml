@@ -20,7 +20,7 @@ url = "https://github.com/JattMones/assist-me-download.netlify.com"
 weight = 100
 [[menu.main]]
 name = "Survey"
-url = "https://flipboard.com/@vjeantet"
+url = "surveyPage.html"
 weight = 102
 [[menu.main]]
 name = "Keybase (secure msg)"
