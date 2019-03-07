@@ -5,12 +5,12 @@ title = "Survey Download and Tutorial"
 
 +++
 
-Item | Ubuntu | Windows
---- | --- |---
-AutoHotKey | [Page](autohotkey.com)| [Page](autohotkey.com)
-AppendClipboard | [Download](autohotkey.com) | [Download](autohotkey.com)
-Multi-Clipboard | [Download](autohotkey.com) | [Download](autohotkey.com)
-UClipboard | [Download](autohotkey.com) | [Download](autohotkey.com)
+Item | Windows Download
+--- | ---
+AutoHotKey | [Page](https://autohotkey.com)
+AppendClipboard | [Download](autohotkey.com)
+Multi-Clipboard | [Download](autohotkey.com)
+UClipboard | [Download](autohotkey.com)
 
 ### Multi-Clipboard Info:
 {{< youtube izgsppAKtjE >}}
