@@ -6,7 +6,7 @@ title = "Survey Download and Tutorial"
 +++
 
 Item | Ubuntu | Windows
---- | ---
+--- | --- |---
 AutoHotKey | [Page](autohotkey.com)| [Page](autohotkey.com)
 AppendClipboard | [Download](autohotkey.com) | [Download](autohotkey.com)
 Multi-Clipboard | [Download](autohotkey.com) | [Download](autohotkey.com)
