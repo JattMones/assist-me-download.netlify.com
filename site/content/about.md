@@ -5,4 +5,5 @@ title = "about"
 
 +++
 
-## This is where our page Markdown content lives.
+Senior at Allegheny College, interests include website dev, python dev, game dev,
+sailing, skiing,ultimate frisbee, music and music services.   
