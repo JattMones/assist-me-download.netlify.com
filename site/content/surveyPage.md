@@ -5,10 +5,13 @@ title = "Survey Download and Tutorial"
 
 +++
 
-## [AutoHotKey](autohotkey.com)
-## [AppendClipboard](autohotkey.com)
-## [Multi-Clipboard](autohotkey.com)
-## [UClipboard](autohotkey.com)
+Item | Download
+--- | ---
+AutoHotKey | [Page](autohotkey.com)
+AppendClipboard | [Download](autohotkey.com)
+Multi-Clipboard | [Download](autohotkey.com)
+UClipboard | [Download](autohotkey.com)
+
 ### Multi-Clipboard Info:
 {{< youtube izgsppAKtjE >}}
 ### AppendClipboard Info:
