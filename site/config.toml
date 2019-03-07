@@ -16,14 +16,14 @@ weight = -120
 [[menu.main]]
 name = "Survey"
 url = "/surveyPage"
-weight = 102
+weight = 100
 [[menu.main]]
 name = "Github repos"
 pre = "<h3>Site Repo</h3>"
 url = "https://github.com/JattMones/assist-me-download.netlify.com"
-weight = 100
+weight = 102
 [[menu.main]]
-name = "Contact)"
+name = "Contact"
 pre = "<h3>Contact me</h3>"
 url = "/contact"
 weight = 109
