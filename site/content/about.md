@@ -1,8 +1,9 @@
 +++
 date = "2016-09-09T10:15:23-04:00"
 draft = false
-title = "about"
+title = "About"
 
 +++
 
-## This is where our page Markdown content lives.
+Senior at Allegheny College, interests include website dev, python dev, game dev,
+sailing, skiing,ultimate frisbee, music and music services.   

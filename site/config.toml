@@ -6,8 +6,27 @@ disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
-paginate = 10
+paginate = 2
 canonifyurls = true
+[[menu.main]]
+identifier = "blog"
+name = "Download Page"
+url = "/"
+weight = -120
+[[menu.main]]
+name = "Survey"
+url = "/surveyPage"
+weight = 100
+[[menu.main]]
+name = "Github repos"
+pre = "<h3>Site Repo</h3>"
+url = "https://github.com/JattMones/assist-me-download.netlify.com"
+weight = 102
+[[menu.main]]
+name = "Contact"
+pre = "<h3>Contact me</h3>"
+url = "/contact"
+weight = 109
 
 [params]
   description = "Click to Download"
