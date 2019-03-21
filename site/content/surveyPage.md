@@ -4,7 +4,7 @@ draft = false
 title = "Survey Download and Tutorial"
 
 +++
-###Download Instructions:
+### Download Instructions:
 {{< youtube izgsppAKtjE >}}
 
 Item | Windows Download
