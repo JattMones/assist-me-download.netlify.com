@@ -18,11 +18,11 @@ UClipboard | [Download](https://drive.google.com/uc?export=download&id=1S79Pnb8B
 ### Running and Stopping .ahk files:
 {{< youtube izgsppAKtjE >}}
 </br>
-### Multi-Clipboard Info:
-{{< youtube izgsppAKtjE >}}
-</br>
 ### AppendClipboard Info:
-{{< youtube izgsppAKtjE >}}
+{{< youtube ZjgxDZrk_2k >}}
+</br>
+### Multi-Clipboard Info:
+{{< youtube QtiDK-lX3qM >}}
 </br>
 ### UClipboard Info:
-{{< youtube izgsppAKtjE >}}
+{{< youtube ISfakwi3574 >}}
