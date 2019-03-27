@@ -10,7 +10,7 @@ title = "Survey Download and Tutorial"
 Item | Windows Download
 --- | ---
 AutoHotkey | [Page](https://autohotkey.com)
-Python .EXE | [Download](https://drive.google.com/uc?export=download&id=1sd)
+Python .EXE | [Download](https://docs.google.com/uc?export=download&id=1sd-sgVBMGksv9T6odAps2A7_v9OxDRlE)
 AppendClipboard | [Download](https://drive.google.com/uc?export=download&id=1ODNRTAAL22KP__Nv_UVMo6dzq64C4D50)
 Multi-Clipboard | [Download](https://drive.google.com/uc?export=download&id=1V8QCa2SS7e8neOVUcLAnzFalKI28Lq7N)
 UClipboard | [Download](https://drive.google.com/uc?export=download&id=1S79Pnb8B0upC94wbeRRyrjYCUtrAdQHw)
