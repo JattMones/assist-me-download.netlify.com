@@ -13,7 +13,7 @@ AutoHotkey | [Page](https://autohotkey.com)
 Python .EXE | [Download](https://docs.google.com/uc?export=download&id=1sd-sgVBMGksv9T6odAps2A7_v9OxDRlE)
 AppendClipboard | [Download](https://drive.google.com/uc?export=download&id=1ODNRTAAL22KP__Nv_UVMo6dzq64C4D50)
 Multi-Clipboard | [Download](https://drive.google.com/uc?export=download&id=1V8QCa2SS7e8neOVUcLAnzFalKI28Lq7N)
-UClipboard | [Download](https://drive.google.com/uc?export=download&id=1S79Pnb8B0upC94wbeRRyrjYCUtrAdQHw)
+UClipboard | [Download](https://docs.google.com/uc?export=download&id=1AhRBwXVFMv2K4xmLBa-u98hy65d4H-dx)
 
 ### Running and Stopping .ahk files:
 {{< youtube h-Ko-T_V8vs >}}
