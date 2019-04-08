@@ -1,0 +1,35 @@
+# use Java and non-root
+dist: trusty
+sudo: true
+language: Java
+jdk: oraclejdk8
+
+# ignore the virtualenv that Travis creates
+env:
+  global:
+    - PIPENV_VENV_IN_PROJECT=1
+    - PIPENV_IGNORE_VIRTUALENVS=1
+
+# install all dependencies
+before_install:
+  # install pandoc for conversion
+  - sudo apt-get install -y pandoc
+  # install mdl for markdown linting
+  - gem install mdl
+  - npm install htmlhint -g
+  - pyenv global 3.6.3
+  - pip install --upgrade pip
+  - pip install proselint
+  - pip install pipenv
+  # do not allow Travis to use standard error for debugging purposes
+  - unset _JAVA_OPTIONS
+
+script:
+  # lint the assignment's documentation
+  - mdl README.md
+  - proselint README.md
+  - proselint site/post/first.md
+  - proselint site/post/second.md
+  - proselint site/about.md
+  - proselint site/survePage.md
+  - proselint site/contact.md
