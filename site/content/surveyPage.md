@@ -4,13 +4,8 @@ draft = false
 title = "Survey Download and Tutorial"
 
 +++
-<<<<<<< HEAD
-###Download Instructions:
-{{< youtube izgsppAKtjE >}}
-=======
 ### Download Instructions:
 {{< youtube ykD2wp7uY_4 >}}
->>>>>>> ae14b4719a97b163c1b46ae7829add8ac91dbf64
 
 Item | Windows Download
 --- | ---
@@ -21,14 +16,7 @@ Multi-Clipboard | [Download](https://drive.google.com/uc?export=download&id=1V8Q
 UClipboard | [Download](https://docs.google.com/uc?export=download&id=1AhRBwXVFMv2K4xmLBa-u98hy65d4H-dx)
 
 ### Running and Stopping .ahk files:
-<<<<<<< HEAD
-{{< youtube izgsppAKtjE >}}
-</br>
-### Multi-Clipboard Info:
-{{< youtube izgsppAKtjE >}}
-=======
 {{< youtube h-Ko-T_V8vs >}}
->>>>>>> ae14b4719a97b163c1b46ae7829add8ac91dbf64
 </br>
 ### AppendClipboard Info:
 {{< youtube ZjgxDZrk_2k >}}
