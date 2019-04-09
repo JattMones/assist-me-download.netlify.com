@@ -12,9 +12,8 @@ env:
 
 # install all dependencies
 before_install:
-  # install pandoc for conversion
-  - sudo apt-get install -y pandoc
-  # install mdl for markdown linting
+  #install mdl for readme markdown linting, proselint to check readme, htmlhint
+  #to check src.
   - gem install mdl
   - npm install htmlhint -g
   - pyenv global 3.6.3
@@ -28,8 +27,8 @@ script:
   # lint the assignment's documentation
   - mdl README.md
   - proselint README.md
-  - proselint site/post/first.md
-  - proselint site/post/second.md
-  - proselint site/about.md
-  - proselint site/survePage.md
-  - proselint site/contact.md
+  - htmlhint site/content\surveyPage.html
+  - htmlhint site/content\about.html
+  - htmlhint site/content/post\first.html
+  - htmlhint site/content/post\second.html
+  - htmlhint site/static/admin/index.html
