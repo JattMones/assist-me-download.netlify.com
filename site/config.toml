@@ -33,9 +33,9 @@ weight = 109
   cover = "images/techProgress2.jpg"
   author = "Matt Jones"
   authorlocation = "USA"
-  authorwebsite = "http://vjeantet.fr"
+  authorwebsite = "http://mattjonesofficial.netlify.com"
   bio= "my bio"
-  logo = "images/logo.png"
+  logo = "images/logo.jpg"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
