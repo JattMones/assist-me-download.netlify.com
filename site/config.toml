@@ -38,7 +38,7 @@ weight = 109
   logo = "images/logo.jpg"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  RSSLink = "http://feeds.feedburner.com/..."
+  #RSSLink = "http://feeds.feedburner.com/..."
   githubName = "JattMones/assistMe"
   githubName2 = "jattMones"
   #twitterName = "vjeantet"
