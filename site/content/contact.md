@@ -11,10 +11,11 @@ You can contact the developers through [Github](https://github.com/jattmones/ass
 tracker, or by sending them a message.
 <dl>
 <form>
-    <form name="Contact" method="POST" data-netlify="true">
+    <form name="Contact" method="POST" action="/success" data-netlify-recaptcha="true" data-netlify="true">
     <label>Name</label> <input type="text" name="name" placeholder="Your Name"> <br>
     <label>Email</label> <input type="email" name="email" placeholder="Your Email"> <br> <br>
     <label>Feedback</label> <br> <textarea rows = "10" cols = "60" name = "story" type = "text" placeholder="Response" ></textarea> <br><br>
+    <div data-netlify-recaptcha="true"></div><br>
     <label>Send</label> <input type = "submit"/>
     </form>
 </form>
