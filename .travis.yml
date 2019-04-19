@@ -28,7 +28,7 @@ script:
   - mdl README.md
   - proselint README.md
   - htmlhint site/content\surveyPage.html
-  - htmlhint site/content\about.html
+  - htmlhint site/content\contact.html
   - htmlhint site/content/post\first.html
   - htmlhint site/content/post\second.html
   - htmlhint site/static/admin/index.html
