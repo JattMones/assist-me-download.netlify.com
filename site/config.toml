@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "AssistMe"
 theme = "hugo-theme-casper"
-disqusShortname = "spf13"
+#disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
@@ -34,7 +34,7 @@ weight = 109
   author = "Matt Jones"
   authorlocation = "USA"
   authorwebsite = "http://mattjonesofficial.netlify.com"
-  bio= "my bio"
+  bio= "Computer Scientist, Musician, Frisbee Player, Lifelong Learner"
   logo = "images/logo.jpg"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
