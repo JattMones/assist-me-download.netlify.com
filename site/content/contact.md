@@ -5,4 +5,7 @@ title = "Contact"
 
 +++
 
-## Contact content coming soon...
+## Questions, Concerns, Suggestions?
+
+You can contact the developers through [Github](https://github.com/jattmones/assistMe) by raising an issue in the issue
+tracker, or by sending them a message. 
