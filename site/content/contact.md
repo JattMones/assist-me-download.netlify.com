@@ -11,7 +11,7 @@ You can contact the developers through [Github](https://github.com/jattmones/ass
 tracker, or by sending them a message.
 <dl>
 <form>
-    <form action="https://formspree.io/requestresponse240@gmail.com" method="POST">
+    <form action="https://formspree.io/requestresponse240@gmail.com" method="POST" data-netlify="true">
     <input type="hidden" name="_next" value="http://assist-me-download.netlify.com/contact/"/>
     <label>Name</label> <input type="text" name="name"> <br>
     <label>Email</label> <input type="email" name="_replyto"> <br> <br>
