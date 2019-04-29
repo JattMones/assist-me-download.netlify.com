@@ -5,8 +5,6 @@ title = "On Going Work..."
 
 +++
 ---
-date: 2006-01-02T15:04:05Z07:00
-title: On Going Work...
 ---
 We are working to make our AssistMe software completely bug free, and
 cross-platform, since the bulk of our source code is using languages and

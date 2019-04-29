@@ -1,7 +1,10 @@
----
-date: 2006-01-02T15:04:05Z07:00
-title: AssistMe
----
++++
+date = "2016-01-01T10:15:23+04:00"
+draft = false
+title = "AssistMe"
+
++++
+
 AssistMe is a python application for Windows, that works with the
 AutoHotkey scripting language and Pulovers Macro Creator to automate and record
 users actions! The user interface uses a simple floating button that
