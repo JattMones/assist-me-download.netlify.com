@@ -4,8 +4,7 @@ draft = false
 title = "On Going Work..."
 
 +++
----
----
+
 We are working to make our AssistMe software completely bug free, and
 cross-platform, since the bulk of our source code is using languages and
 packages supported by all three main OS's. While we've found alternatives for
