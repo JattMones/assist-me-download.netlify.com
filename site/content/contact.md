@@ -15,6 +15,6 @@ tracker, or by sending them a message.
     <label>Email</label> <input type="email" name="email" placeholder="Your Email"> <br> <br>
     <label>Feedback</label> <br> <textarea rows = "10" cols = "60" name = "story" type = "text" placeholder="Response" ></textarea> <br><br>
     <div data-netlify-recaptcha="true"></div><br>
-    <label>Send</label> <input type = "submit"/>
+    <input type = "submit"/>
 </form>
 </dl>
